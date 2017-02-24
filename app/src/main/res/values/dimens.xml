@@ -1,0 +1,18 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">0dp</dimen>
+    <dimen name="activity_vertical_margin">0dp</dimen>
+    <dimen name="form_margin">20dp</dimen>
+    <dimen name="input_margin">5dp</dimen>
+    <dimen name="input_padding">5dp</dimen>
+
+
+    <dimen name="bottom_tab_font_size">14.0sp</dimen>
+    <dimen name="bottom_tab_padding_up">12dp</dimen>
+    <dimen name="bottom_tab_padding_drawable">0dp</dimen>
+
+    <dimen name="header_height">60dp</dimen>
+    <dimen name="footer_height">90dp</dimen>
+    <dimen name="footer_padding">10dp</dimen>
+
+</resources>

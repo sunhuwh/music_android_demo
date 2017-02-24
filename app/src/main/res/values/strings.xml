@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Music Download</string>
+
+    <string name="header_hint_refresh_normal">下拉刷新</string>
+    <string name="header_hint_refresh_ready">放开刷新</string>
+    <string name="header_hint_refresh_loading">刷新&#8230;</string>
+    <string name="header_hint_refresh_time">时间：</string>
+    <string name="footer_hint_load_normal">加载更多</string>
+    <string name="footer_hint_load_ready">放开加载更多</string>
+    <string name="network_error">网络异常，加载出错！</string>
+    <string name="search">搜索</string>
+    <string name="download">下载</string>
+    <string name="searchHint">请输入歌曲名称或者音乐人</string>
+    <string name="activity_main_name">高品质音乐</string>
+
+</resources>

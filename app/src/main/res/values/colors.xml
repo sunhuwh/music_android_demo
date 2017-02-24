@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="splashBg">#51bbef</color>
+    <color name="main">#2AA1D9</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="header">#43A5D6</color>
+    <color name="login">#F5F5F5</color>
+
+    <color name="tabHighLight">#F0F0F0</color>
+    <color name="tabSelected">#F3F3F3</color>
+
+    <color name="tabBorder">#DDDDDD</color>
+
+    <color name="actBtnPressed">#662382b2</color>
+    <color name="actBtnNormal">#00ffffff</color>
+
+    <color name="listItmeSelected">#f6f6f6</color>
+
+    <color name="transparent">#00000000</color>
+
+    <color name="regBtnNormal">#33a2d7</color>
+
+</resources>
